@@ -30,18 +30,3 @@
 * **Veritabanı:** SQLite (Local Storage)
 * **Ağ İstekleri:** JavaScript Fetch API (Asenkron Servis Mimarisi)
 * **Paketler:** `@expo/vector-icons`, `expo-print`, `expo-sharing`
-
-## 📦 Kurulum ve Çalıştırma
-
-Projeyi kendi yerel ortamınızda test etmek veya geliştirmek için aşağıdaki adımları izleyebilirsiniz:
-
-### Gereksinimler
-* [Node.js](https://nodejs.org/)
-* [Expo CLI](https://docs.expo.dev/get-started/installation/)
-* Expo Go uygulaması (iOS / Android)
-
-### Adımlar
-
-1. **Projeyi klonlayın:**
-   ```bash
-   git clone [https://github.com/nursenaoztepe/Expense_Tracker.git](https://github.com/nursenaoztepe/Expense_Tracker.git)
